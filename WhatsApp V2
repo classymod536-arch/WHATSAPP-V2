@@ -94,6 +94,12 @@
         "key": "BLACK",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "4c4203764572a512",
+        "key": "BLACK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
 ]
